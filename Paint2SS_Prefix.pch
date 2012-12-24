@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Paint2SS' target in the 'Paint2SS' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
